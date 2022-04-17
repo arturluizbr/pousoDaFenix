@@ -30,23 +30,30 @@ sentido a seu estilo de jogo, serás bem-vindo a família.
 ```markdown
 - `Matar membros` do clã em regiões não-DANGER `(Expulsão)`
 - `Matar membros` do clã em regiões DANGER sem justificativa comprovada `(Cartão Vermelho)`
-- `Roubar` recompensas de Boss regional morto por membro do clã sem autorização no Pico Desconhecido `(Cartão Amarelo)`
-- `Roubar` recompensas de Boss invocado por membro do clã sem autorização no Pico Desconhecido ou na Praça Mágica `(Expulsão)`
-- `Roubar` recompensas de Boss ou Monstro Épico morto por membro do clã sem autorização na Praça Mágica `(Cartão Amarelo)`
-- `Roubar` baús da serpente que já estão sendo colhidos por membro do clã na Praça Mágica `(Cartão Amarelo)`
-- `Roubar` baú do selo que já está sendo colhido por membro do clã na Praça Mágica `(Cartão Vermelho)`
+- `Roubar` recompensas de Boss regional morto por membro do clã sem autorização
+no Pico Desconhecido `(Cartão Amarelo)`
+- `Roubar` recompensas de Boss invocado por membro do clã semautorização no
+Pico Desconhecido ou na Praça Mágica `(Expulsão)`
+- `Roubar` recompensas de Boss ou Monstro Épico morto por membro do clã sem
+autorização na Praça Mágica `(Cartão Amarelo)`
+- `Roubar` baús da serpente que já estão sendo colhidos por membro do clã na
+Praça Mágica `(Cartão Amarelo)`
+- `Roubar` baú do selo que já está sendo colhido por membro do clã na Praça
+Mágica `(Cartão Vermelho)`
 - `Matar` membro do clã na Praça Mágica e Pico Desconhecido `(Cartão Amarelo)`
-- `Não participar` dos eventos de clã (Expedição e Desafio) em dois finais de semana consecutivos sem justificativa `(Cartão Amarelo)`
-- Ficar `3 dias sem` fazer as `doações` diárias completas `(10k cobre, 5k aço negro, 5k energia)` durante a semana `(Cartão Amarelo)`
+- `Não participar` dos eventos de clã (Expedição e Desafio) em dois finais de
+semana consecutivos sem justificativa `(Cartão Amarelo)`
+- Ficar `3 dias sem` fazer as `doações` diárias completas `(10k cobre, 5k aço
+negro, 5k energia)` durante a semana `(Cartão Amarelo)`
 - `Ter 2` Cartões Vermelhos `(Expulsão)`
 - `Ter 2` Cartões Amarelos `(Cartão Vermelho)`
 ```
 
 ## Remover Cartões Vermelhos e Amarelos
-```markdown
+
 - `Amarelo`: 2 semanas de doações completas `(14 dias)`
 - `Vermelho`: 4 semanas de doações completas `(28 dias)`
-```
+
 
 ## Adendos:
 ```markdown

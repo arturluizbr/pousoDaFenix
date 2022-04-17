@@ -29,7 +29,8 @@ sentido a seu estilo de jogo, serás bem-vindo a família.
 ## Lista de Punições
 ```markdown
 - `Matar membros` do clã em regiões não-DANGER `(Expulsão)`
-- `Matar membros` do clã em regiões DANGER sem justificativa comprovada `(Cartão Vermelho)`
+- `Matar membros` do clã em regiões DANGER sem justificativa comprovada `(Cartão
+Vermelho)`
 - `Roubar` recompensas de Boss regional morto por membro do clã sem autorização
 no Pico Desconhecido `(Cartão Amarelo)`
 - `Roubar` recompensas de Boss invocado por membro do clã semautorização no
@@ -51,8 +52,8 @@ negro, 5k energia)` durante a semana `(Cartão Amarelo)`
 
 ## Remover Cartões Vermelhos e Amarelos
 
-- `Amarelo`: 2 semanas de doações completas `(14 dias)`
-- `Vermelho`: 4 semanas de doações completas `(28 dias)`
+- __Amarelo__: 2 semanas de doações completas __(14 dias)__
+- __Vermelho__: 4 semanas de doações completas __(28 dias)__
 
 
 ## Adendos:

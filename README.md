@@ -18,13 +18,20 @@ sentido a seu estilo de jogo, serás bem-vindo a família.
 
 ![image](https://user-images.githubusercontent.com/102329718/163724679-687b640c-3271-4f1f-a369-c51969d8639e.png)
 ![image](https://user-images.githubusercontent.com/102329718/163724691-80f54346-6f4b-419d-b6c5-60868f78acb9.png)
-![image](https://user-images.githubusercontent.com/102329718/163724804-225cdb26-182b-4a92-8d46-440df325823e.png)
 ![image](https://user-images.githubusercontent.com/102329718/163724707-2012739e-6fa0-4b83-8d96-35912a797070.png)
 
 
 > ## Eventos
 - 18:00 Sab - Expedição
 - 18:00 Dom - Desafio
+
+## Membros 
+```markdown
+  Para adquirir o cargo de `Membro` deve ser cumprir os mínimo exigido no clã. 
+`Doações diárias`, `Contribuição nas pesquisas das técnicas`.
+O não cumprimento destas exigências o cargo de `Membro` será rebaixado para `Novo Membro`, perdendo o acesso a `loja`.
+Atualização semanal junto a verificação de registros de doação como referido abaixo.
+```
 
 ## Lista de Punições
 ```markdown

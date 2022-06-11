@@ -17,7 +17,7 @@ sentido a seu estilo de jogo, serás bem-vindo a família.
 ### **Anciões**
 
 ![image](https://user-images.githubusercontent.com/102329718/163724679-687b640c-3271-4f1f-a369-c51969d8639e.png)
-![image](https://user-images.githubusercontent.com/102329718/163724691-80f54346-6f4b-419d-b6c5-60868f78acb9.png)
+![image](https://user-images.githubusercontent.com/102329718/173190836-a22af771-46fc-40bb-b28e-89589b3dcdae.png)
 ![image](https://user-images.githubusercontent.com/102329718/163724707-2012739e-6fa0-4b83-8d96-35912a797070.png)
 
 
@@ -67,7 +67,7 @@ negro, 5k energia)` durante a semana `(Cartão Amarelo)`
 ```markdown
 - `Personagens secundários` serão considerados auto `justificados por padrão`, desde que o `principal esteja ativamente` jogando
 - `Quem trabalha ou estuda` também é considerado `justificado`, lembre-se de `avisar a algum Elder`
-- `Verificações de doação` acontecerão aos `domingos 12h`
+- `Verificações de doação` acontecerão aos `domingos 10:00h`
 - A `Lista de Penalizados` é publica para verificação dos membros, pode ser encontrada nos `canais` de comunicação `abaixo`.
 ```
 

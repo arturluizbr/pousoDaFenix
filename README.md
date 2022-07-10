@@ -23,22 +23,36 @@ sentido a seu estilo de jogo, serás bem-vindo a família.
 
 
 
+> # !!! Aviso Importante !!!
+Para evolução do clã é necessário `Gold` na pesquisa de algumas técnicas, sendo assim a partir do dia `18/07/2022 (segunda)` 
+será incluso como mínimo junto a doação, a taxa simbólica de `10 gold semanais`.
+Sendo assim o `mínimo` para permanência no clã é a `doação semanal`: 
+- #### 5 dias de Cobre (10,000)x5 = `500`
+- #### 5 dias de Aço (5,000)x5 = `25k`
+- #### 5 dias de Energia (5,000)x5 = `25k`
+- #### 5 dias de Gold (2)x5 = `10`
+
+
+
 > ## Membros 
   Para adquirir o cargo de `Membro` deve ser cumprir os mínimo exigido no clã. 
 `Doações diárias`, `Contribuição nas pesquisas das técnicas`.
 O não cumprimento destas exigências o cargo de `Membro` será rebaixado para `Novo Membro`, perdendo o acesso a `loja`.
 Atualização semanal junto a verificação de registros de doação como referido abaixo.
 
+
+
 > ## Expulsão (por manutenção)
 - 3 dias Offline.
 - 2 semanas de 0 Doação.
+
 
 > ## Eventos
 - 18:00 Sab - Expedição
 - 18:00 Dom - Desafio
 
-> ## Lista de Punições
 
+> ## Lista de Punições
 - `Matar membros` do clã em regiões não-DANGER `(Expulsão)`
 - `Matar membros` do clã em regiões DANGER sem justificativa comprovada `(Cartão
 Vermelho)`
